@@ -9,6 +9,10 @@
 
 Contributors:
  - HaraldWeber
+ - Softles
+ - Yorick
+ - Arkitect
+ - Blackclaws
  - TimWolters
 
 0.11.58
